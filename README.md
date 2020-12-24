@@ -11,7 +11,7 @@
 - 😍 I am currently a happy [Unit4](https://www.unit4.com) employee
 - 🔭 I’m currently working on v-rp.pl (hobby)
 
-<img alt="Cat Coding" height="180em" width="220em" src="https://i.imgur.com/qwjnXHR.gif" align="right"/>
+<img alt="Cat Coding" height="220em"  src="https://i.imgur.com/qwjnXHR.gif" align="right"/>
 
 ### My Tech Stack
 
