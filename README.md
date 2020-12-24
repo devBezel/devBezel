@@ -7,27 +7,25 @@
 
 ### Hi 👋 I am Dawid!
 ![Profile views](https://gpvc.arturio.dev/devbezel)
-![Stars](https://img.shields.io/github/stars/devbezel?style=social)
 
 - 😍 I am currently a happy [Unit4](https://www.unit4.com) employee
 - 🔭 I’m currently working on v-rp.pl (hobby)
 
-<img alt="Cat Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Cat Coding" src="https://i.imgur.com/qwjnXHR.gif" align="right"/>
 ### 🛠 &nbsp;My Tech Stack
 
 ![C#](https://img.shields.io/badge/-CSharp-239120A?style=flat&logo=C%20Sharp)&nbsp;
-![]
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)\
 ![Angular](https://aleen42.github.io/badges/src/angular.svg)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Idea](https://aleen42.github.io/badges/src/idea.svg)
