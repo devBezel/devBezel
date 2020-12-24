@@ -12,7 +12,8 @@
 - 🔭 I’m currently working on v-rp.pl (hobby)
 
 <img alt="Cat Coding" src="https://i.imgur.com/qwjnXHR.gif" align="right"/>
-### 🛠 &nbsp;My Tech Stack
+
+### My Tech Stack
 
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C%20Sharp&logoColor=239120)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
