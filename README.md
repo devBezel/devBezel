@@ -9,25 +9,13 @@
 > in low-level things (I'm new at this, just learning). I am an employee in Unit4 as a junior software engineer.
 ````
 
-````
-_______________________________________________________________________________________________________________
-````
-
 ````bash
 > help --contact
-````
-````
 > github: devbezel
 > website: wip
 ````
 
-````
-_______________________________________________________________________________________________________________
-````
-
 ````bash
 > help --hobby
-````
-````
 > v-rp.pl - currently I am helping to develop a hobby project after working hours.
 ````
