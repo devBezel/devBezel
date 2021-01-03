@@ -3,7 +3,6 @@
 ````bash
 > help --info
 ````
-
 ````
 > I am a first-year student of computer science. My main programming languages are C#, Typescript 
 > but I also like programming in Python and C/C++. I am interested in embedded systems, I like coding 
@@ -16,6 +15,8 @@ ________________________________________________________________________________
 
 ````bash
 > help --contact
+````
+````
 > github: devbezel
 > website: wip
 ````
@@ -26,5 +27,7 @@ ________________________________________________________________________________
 
 ````bash
 > help --hobby
+````
+````
 > v-rp.pl - currently I am helping to develop a hobby project after working hours.
 ````
