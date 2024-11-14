@@ -1,12 +1,10 @@
-![Profile views](https://gpvc.arturio.dev/devbezel)
-
 ````bash
 > help --info
 ````
 ````
-> I am a second year student of computer science. My main programming languages are C#, Typescript, Golang 
-> but I also like programming in Python and C/C++. I am interested in embedded systems, I like coding 
-> in low-level things (I'm new at this, just learning).
+> I am a computer science engineer. My main programming languages are C#, Typescript, Golang 
+> but I also like to program in Python and C/C++. I am interested in embedded systems
+> I like to code in low-level stuff (I'm new to this, just learning).
 ````
 
 ````bash
